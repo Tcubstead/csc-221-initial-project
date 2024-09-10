@@ -3,13 +3,14 @@
 // Chapter 2 Checkpoint 17
 // Chapter-2-Checkpoint-17
 // csc 221 inial project.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Display my name, address, and phone number in separte strings
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
+    cout << "Thomas E Cubstead " << "2294 Criston Drive " << "757-617-4899 " << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
