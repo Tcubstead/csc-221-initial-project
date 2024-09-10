@@ -3,7 +3,7 @@
 // Chapter 2 checkpoint project
 // Checkpoint-2-checkpoint-14
 // csc 221 inial project.cpp : This file is for three programs for chapter 2
-//Display my initials
+//Display my initials.
 
 #include <iostream>
 using namespace std;
