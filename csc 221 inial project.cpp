@@ -1,11 +1,20 @@
-// csc 221 inial project.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Thomas E Cubstead
+// 9/10/2024
+// Chapter 2 checkpoint project
+// Checkpoint-2-checkpoint-14
+// csc 221 inial project.cpp : This file is for three programs for chapter 2
+//Display my initials
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    char first, middle, last;
+    first = 'T';
+    middle = 'E';
+    last = 'C';
+    cout << first << middle << last << endl;
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
