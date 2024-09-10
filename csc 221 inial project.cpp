@@ -1,3 +1,7 @@
+// Thomas E Cubstead
+// 9/10/2024
+// Chapter 2 Checkpoint 17
+// Chapter-2-Checkpoint-17
 // csc 221 inial project.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
