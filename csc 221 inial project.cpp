@@ -10,6 +10,7 @@ using namespace std;
 int main()
 {
     cout << "Thomas E Cubstead\n" << "2294 Criston Drive\n" << "757-617-4899\n" << endl;
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
