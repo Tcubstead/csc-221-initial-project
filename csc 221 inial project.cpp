@@ -9,8 +9,7 @@
 using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
-    cout << "Thomas E Cubstead " << "2294 Criston Drive " << "757-617-4899 " << endl;
+    cout << "Thomas E Cubstead\n" << "2294 Criston Drive\n" << "757-617-4899\n" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
