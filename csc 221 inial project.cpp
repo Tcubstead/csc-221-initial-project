@@ -12,6 +12,7 @@ int main()
     // variables declared for age and weight
     int age = 19;
     float weight = 165.5;
+    
     //display age and weight in a sentence
     cout << "My age is " << age << " and my weight is " << weight << " pounds" << endl;
     return 0;
