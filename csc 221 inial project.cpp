@@ -1,5 +1,8 @@
 // csc 221 inial project.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Thomas Cubstead
+//9/17/24
+//csc 221 initial
+//checkpoint_2-20
 
 #include <iostream>
 using namespace std;
