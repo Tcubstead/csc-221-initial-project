@@ -8,10 +8,10 @@
 using namespace std;
 int main()
 {
-    age = 19;
-    float num1 = 165.5;
-    var weight = num1;
-    
+    int age = 19;
+    float weight = 165.5;
+    cout << "My age is " << age << " and my weight is " << weight << " pounds";
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
