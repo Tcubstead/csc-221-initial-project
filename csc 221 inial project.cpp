@@ -10,7 +10,7 @@ int main()
 {
     int age = 19;
     float weight = 165.5;
-    cout << "My age is " << age << " and my weight is " << weight << " pounds";
+    cout << "My age is " << age << " and my weight is " << weight << " pounds" << endl;
     return 0;
 }
 
