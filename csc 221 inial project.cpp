@@ -5,14 +5,17 @@
 // csc 221 inial project.cpp : This file is for three programs for chapter 2
 //Display my initials.
 
+//get library information
 #include <iostream>
 using namespace std;
 int main()
 {
+   //declare char values of my initials
     char first, middle, last;
     first = 'T';
     middle = 'E';
     last = 'C';
+   //display my initials in order
     cout << first << middle << last << endl;
     return 0;
 }
